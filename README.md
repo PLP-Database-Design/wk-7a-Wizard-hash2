@@ -1,5 +1,6 @@
 # 📝 Assignment: Database Design and Normalization
 
+
 ## 🎯 **Learning Objectives**
 * 🛠️ **Understand the principles of good database design** and **normalization**.
 * 💡 **Apply normalization techniques** to improve database structure and efficiency.
